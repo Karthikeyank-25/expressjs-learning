@@ -1,0 +1,16 @@
+{
+  "name": "own-middleware",
+  "version": "1.0.0",
+  "main": "ownMiddleware.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Karthi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
